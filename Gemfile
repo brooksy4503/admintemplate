@@ -6,6 +6,7 @@ ruby '2.4.0'
 # General list of gems
 gem 'rails', '5.0.2'
 gem 'puma'
+gem 'pg'
 gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
@@ -60,7 +61,6 @@ end
 # Only Production env gems
 group :production do
   gem 'unicorn'
-  gem 'pg'
 end
 
 # Both Test and Development env gems
