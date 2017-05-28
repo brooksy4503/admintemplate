@@ -61,6 +61,7 @@ end
 # Only Production env gems
 group :production do
   gem 'unicorn'
+  gem 'pg'
 end
 
 # Both Test and Development env gems
