@@ -5,7 +5,6 @@ ruby '2.4.0'
 
 # General list of gems
 gem 'rails', '5.0.2'
-gem 'pg'
 gem 'puma'
 gem 'sass-rails'
 gem 'uglifier'
