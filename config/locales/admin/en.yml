@@ -5,7 +5,7 @@ en:
       administration: ADMINISTRATION
     index:
       title: Dashboard
-      body:  Welcome to CoinSynergy!!
+      body:  Welcome to CoinSynergy!! New Version.
     users:
       create:
         success: User was successfully created.
